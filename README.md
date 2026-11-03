@@ -218,8 +218,8 @@ Hethongnhung_CuoiKy/
 
 ### Bước 1: Clone repository
 ```bash
-git clone https://github.com/ancodetest08/Hethongnhung_CuoiKy.git
-cd Hethongnhung_CuoiKy
+git clone https://github.com/ancodetest08/Hethongnhung_Cuoiky.git
+cd Hethongnhung_Cuoiky
 ```
 
 ### Bước 2: Cấu hình WiFi
